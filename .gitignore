@@ -4,3 +4,7 @@ dbtlearn/logs/
 logs/
 venv/
 .trunk/
+
+.DS_Store
+
+dbtlearn/.DS_Store
